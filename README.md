@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Software Developer at Volvo Cars.
-- 🌱 I’m currently learning about Data Science.
+- 🌱 I’m currently learning about Data Science, Artificial Intelligence, and Machine Learning.
 - 💬 Ask me about Python, Data Structures, Algorithms, and some aspects of Software Development such as REST APIs, Automated Testing, and CI/CD.
-- ✍️ I write about some of the previous topics at [Algorithmically Speaking](https://albexl.hashnode.dev/)
+- ✍️ I write the [Algorithmically Speaking](https://albexl.hashnode.dev/) blog, where I try to explain some of the previous topics. 
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
