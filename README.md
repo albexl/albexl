@@ -3,7 +3,8 @@
 - 🔭 I’m currently working as a Software Developer at Volvo Cars.
 - 🌱 I’m currently learning about Data Science, Artificial Intelligence, and Machine Learning.
 - 💬 Ask me about Python, Data Structures, Algorithms, and some aspects of Software Development such as REST APIs, Automated Testing, and CI/CD.
-- ✍️ I write the [Algorithmically Speaking](https://albexl.hashnode.dev/) blog, where I try to go deep explaining some of the previous topics. 
+- ✍️ I write the [Algorithmically Speaking](https://albexl.hashnode.dev/) blog, where I try to go deep explaining some of the previous topics.
+- 📆 Every week I publish a post about an interesting algorithmic problem in Computer Science on the [Algorithmically Speaking](https://albexl.substack.com/) substack.
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
