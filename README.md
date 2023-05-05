@@ -1,10 +1,6 @@
 # Hi there 👋
 
-My name is Alberto, and I'm a Computer Scientist from the University of Havana.
-
-I have a huge passion for solving problems in the areas of Computer Science and Software Engineering, so don't hesitate to contact me for help on any related subject, especially if they require some complex algorithmic analysis.
-
-I'll be happy to help.
+My name is Alberto, and I'm a Computer Scientist from the University of Havana. I have a huge passion for solving problems in the areas of Computer Science and Software Engineering.
 
 ## Current Facts About Me
 
@@ -14,13 +10,13 @@ I'll be happy to help.
 
 ## Education
 
-I love teaching and writing. That's why I try to combine those two passions creating educational content online.
+I love teaching and writing. That's why I combine those two passions creating educational content online.
 
 In order to spread knowledge I:
 
 - ✍️ Write the [Algorithmically Speaking](https://albexl.hashnode.dev/) blog.
 - 📆 Publish a weekly post about algorithms on my [Substack](https://albexl.substack.com/).
-- 🏕️ Collaborate sharing knowledge with [freecodecamp](https://www.freecodecamp.org/news/author/albexl).
+- 🏕️ Collaborate sharing knowledge with [freeCodeCamp](https://www.freecodecamp.org/news/author/albexl).
 - 🚗 Collaborate with the [Volvo Cars Engineering](https://medium.com/@albexl) blog.
 
 ### :books: Here are some of my recent blog posts
