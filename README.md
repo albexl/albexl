@@ -21,11 +21,11 @@ In order to spread knowledge I:
 
 ### :books: Here are some of my recent blog posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Algorithmically Speaking - #3: Nodes, Edges, and Connectivity](https://albexl.hashnode.dev/nodes-edges-and-connectivity)
- - 🌮 [Algorithmically Speaking - #2: A Game of Stones](https://albexl.hashnode.dev/a-game-of-stones)
- - 💯 [Algorithmically Speaking - #1: Coin Change](https://albexl.hashnode.dev/coin-change)
- - 🔥 [New? Start Here...](https://albexl.hashnode.dev/new-start-here)
- - 💫 [A Tale of Interviews: A Collaborative Approach to Problem-Solving](https://albexl.hashnode.dev/collaborative-problem-solving-with-python)<!-- BLOGPOSTS:END -->
+ - 💯 [Algorithmically Speaking - #4: Neighbors, Degrees, and Colorings](https://albexl.hashnode.dev/neighbors-degrees-and-colorings)
+ - 🌮 [Algorithmically Speaking - #3: Nodes, Edges, and Connectivity](https://albexl.hashnode.dev/nodes-edges-and-connectivity)
+ - 💯 [Algorithmically Speaking - #2: A Game of Stones](https://albexl.hashnode.dev/a-game-of-stones)
+ - 🔥 [Algorithmically Speaking - #1: Coin Change](https://albexl.hashnode.dev/coin-change)
+ - 💫 [New? Start Here...](https://albexl.hashnode.dev/new-start-here)<!-- BLOGPOSTS:END -->
 
 ## Other Accomplishments
 
