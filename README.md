@@ -21,11 +21,11 @@ In order to spread knowledge I:
 
 ### :books: Here are some of my recent blog posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Algorithmically Speaking - #5: Representing Graphs](https://albexl.hashnode.dev/representing-graphs)
- - 🌮 [Algorithmically Speaking - #4: Neighbors, Degrees, and Colorings](https://albexl.hashnode.dev/neighbors-degrees-and-colorings)
- - 💯 [Algorithmically Speaking - #3: Nodes, Edges, and Connectivity](https://albexl.hashnode.dev/nodes-edges-and-connectivity)
- - 🔥 [Algorithmically Speaking - #2: A Game of Stones](https://albexl.hashnode.dev/a-game-of-stones)
- - 💫 [Algorithmically Speaking - #1: Coin Change](https://albexl.hashnode.dev/coin-change)<!-- BLOGPOSTS:END -->
+ - 💯 [I moved over to Substack](https://albexl.hashnode.dev/i-moved-over-to-substack)
+ - 🌮 [Algorithmically Speaking - #5: Representing Graphs](https://albexl.hashnode.dev/representing-graphs)
+ - 💯 [Algorithmically Speaking - #4: Neighbors, Degrees, and Colorings](https://albexl.hashnode.dev/neighbors-degrees-and-colorings)
+ - 🔥 [Algorithmically Speaking - #3: Nodes, Edges, and Connectivity](https://albexl.hashnode.dev/nodes-edges-and-connectivity)
+ - 💫 [Algorithmically Speaking - #2: A Game of Stones](https://albexl.hashnode.dev/a-game-of-stones)<!-- BLOGPOSTS:END -->
 
 ## Other Accomplishments
 
