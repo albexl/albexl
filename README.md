@@ -14,18 +14,9 @@ I love teaching and writing. That's why I combine those two passions creating ed
 
 In order to spread knowledge I:
 
-- ✍️ Write the [Algorithmically Speaking](https://albexl.hashnode.dev/) blog.
-- 📆 Publish a weekly post about algorithms on my [Substack](https://albexl.substack.com/).
+- ✍️ Write the [Algorithmically Speaking](https://albexl.substack.com/) newsletter.
 - 🏕️ Collaborate sharing knowledge with [freeCodeCamp](https://www.freecodecamp.org/news/author/albexl).
 - 🚗 Collaborate with the [Volvo Cars Engineering](https://medium.com/@albexl) blog.
-
-### :books: Here are some of my recent blog posts
-<!-- BLOGPOSTS:START -->
- - 💯 [I moved over to Substack](https://albexl.hashnode.dev/i-moved-over-to-substack)
- - 🌮 [Algorithmically Speaking - #5: Representing Graphs](https://albexl.hashnode.dev/representing-graphs)
- - 💯 [Algorithmically Speaking - #4: Neighbors, Degrees, and Colorings](https://albexl.hashnode.dev/neighbors-degrees-and-colorings)
- - 🔥 [Algorithmically Speaking - #3: Nodes, Edges, and Connectivity](https://albexl.hashnode.dev/nodes-edges-and-connectivity)
- - 💫 [Algorithmically Speaking - #2: A Game of Stones](https://albexl.hashnode.dev/a-game-of-stones)<!-- BLOGPOSTS:END -->
 
 ## Other Accomplishments
 
@@ -33,4 +24,4 @@ In order to spread knowledge I:
 
 ---
 
-📫 You can find me on [Twitter](https://twitter.com/albe_xl) or [LinkedIn](https://www.linkedin.com/in/albexl/).
+📫 You can find me on [Substack](https://substack.com/@albexl) or [LinkedIn](https://www.linkedin.com/in/albexl/).
